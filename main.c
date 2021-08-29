@@ -25,7 +25,7 @@ int main()
         {
             printf("%d\n", i);          //Print the prime number;
 
-            if(++n == 1000000)              //If this number is the last;
+            if(++n == 1000000)          //If this number is the last;
             {
                 return 0;               //Stop the program;
             }
